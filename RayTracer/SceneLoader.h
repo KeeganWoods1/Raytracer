@@ -25,7 +25,7 @@ bool loadScene(
 	int num_of_objects = 0;
 
 	FILE * file;
-	int _errno = fopen_S(&file, path, "r");
+	int _errno = fopen_s(&file, path, "r");
 	if (_errno != 0) 
 	{
 		printf("(LoadScene)Impossible to open the file ! Are you in the right path ?\n");
