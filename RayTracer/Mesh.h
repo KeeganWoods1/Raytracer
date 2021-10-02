@@ -6,7 +6,7 @@
 #include <vector>
 #include "IndexOBJLoader.h"
 #include "Triangle.h"
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 #include "Cimg.h"
 
 using namespace std;

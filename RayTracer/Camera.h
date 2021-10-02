@@ -6,7 +6,7 @@
 #include <vector>
 #include <cmath>
 #include "Ray.h"
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 #include "Cimg.h"
 
 using namespace std;

@@ -5,7 +5,7 @@
 #include <vector>
 #include "RayTracer.h"
 #include "Ray.h"
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 #include "Camera.h"
 #include "SceneLoader.h"
 #include "Sphere.h"

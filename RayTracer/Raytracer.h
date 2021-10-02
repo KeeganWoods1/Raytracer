@@ -4,7 +4,7 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 #include "Ray.h"
 #include "Camera.h"
 #include "SceneLoader.h"

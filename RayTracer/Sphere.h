@@ -4,7 +4,7 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 #include "Cimg.h"
 
 using namespace std;

@@ -4,7 +4,7 @@
 #include <vector>
 #include <string>
 #include <stdlib.h>
-#include "glm.hpp"
+#include "glm/glm/glm.hpp"
 
 bool loadOBJ(
 	const char * path,
