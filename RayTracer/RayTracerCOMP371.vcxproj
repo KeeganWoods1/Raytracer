@@ -70,10 +70,10 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\keega\source\repos\Ray Tracer COMP 371\Ray Tracer COMP 371;C:\Users\keega\source\repos\Ray Tracer COMP 371\glm;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371;C:\Users\keega\source\repos\RayTracerCOMP371\glm;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>C:\Users\keega\source\repos\Ray Tracer COMP 371\Ray Tracer COMP 371;C:\Users\keega\source\repos\Ray Tracer COMP 371\glm;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371;C:\Users\keega\source\repos\RayTracerCOMP371\glm;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
