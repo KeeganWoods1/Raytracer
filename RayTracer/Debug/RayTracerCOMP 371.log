@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\mesh.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\mesh.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\raytracer.h(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\raytracer.h(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\raytracer.h(98): warning C4101: 't_n': unreferenced local variable
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\main.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\main.cpp(37): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\main.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\keega\source\repos\RayTracerCOMP371\RayTracerCOMP371\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  RayTracerCOMP371.vcxproj -> C:\Users\keega\source\repos\RayTracerCOMP371\Debug\RayTracerCOMP371.exe
